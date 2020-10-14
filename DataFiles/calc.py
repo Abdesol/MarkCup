@@ -24,9 +24,3 @@ class Calc():
 
 	def si_pr(self):
 		return self.lst
-
-	
-a = Calc('Onion',3,float())
-a.validity()
-print(a.calcapp())				
-
